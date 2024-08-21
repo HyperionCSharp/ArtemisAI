@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danie\\Desktop\\Artemis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\processmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:processmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\threatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:threatanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\artemisvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:artemisvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|c:\\users\\danie\\desktop\\artemis\\build.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{67BA4D72-AC6F-4684-93EA-48C8CDF961E1}|Artemis.csproj|solutionrelative:build.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "build.md",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\build.md",
+              "RelativeDocumentMoniker": "build.md",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\build.md",
+              "RelativeToolTip": "build.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-14T22:16:46.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-14T21:02:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArtemisVision.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\ArtemisVision.cs",
+              "RelativeDocumentMoniker": "ArtemisVision.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\ArtemisVision.cs",
+              "RelativeToolTip": "ArtemisVision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:49:50.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreatAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\ThreatAnalyzer.cs",
+              "RelativeDocumentMoniker": "ThreatAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\ThreatAnalyzer.cs",
+              "RelativeToolTip": "ThreatAnalyzer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:10:28.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\ProcessMonitor.cs",
+              "RelativeDocumentMoniker": "ProcessMonitor.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\ProcessMonitor.cs",
+              "RelativeToolTip": "ProcessMonitor.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:10:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\Artemis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\Artemis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:10:07.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+dotnet build C:\Users\Danie\Desktop\Artemis\Artemis.csproj /property:GenerateFullPaths=true /consoleloggerparameters:NoSummary /p:Configuration=Debug /p:Platform="AnyCPU"
